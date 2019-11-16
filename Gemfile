@@ -38,7 +38,7 @@ gem 'jquery-rails'
 gem 'rubocop'
 
 # Use Devise for authentication solution
-gem 'devise', '4.7.0'
+gem 'devise', '4.7.1'
 
 gem 'timecop'
 
